@@ -1,0 +1,83 @@
+body{
+margin: 0px;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+td{
+	display: inline-block;
+	margin-right: 110px;
+	padding: 5px;
+}
+h2{
+	color:white;
+	
+}
+a{
+	text-decoration: none;
+	
+}
+h2.hd:link{
+	color:white;
+}
+h2.hd:hover {
+  color: navy;
+  background: lightblue;
+}
+h2.hd:visited {
+  color: lightblue;
+}
+a.int:link{
+	color:navy;
+}
+a.int:visited{
+	color:gray;
+}
+a.int:hover{
+	color:blue;
+}
+a:link{
+	color:white;
+}
+a:hover{
+	color:gray;
+}
+a:visited{
+	color:orange;
+}
+.flink{
+	color:blue;
+	padding: 2px;
+	padding-left: 100px;
+	
+}
+h3.flink:hover{
+	color:lightgray;
+}
+h2.link:hover{
+	color: lightgray;
+}
+.edu{
+	padding-left: 20px;
+	
+}
+.movement:hover{
+	transform: translateY(-5px);
+}
+#tb{
+	width:950px;
+	margin:auto;
+	border-collapse: collapse;
+
+}
+
+#tb td{
+		border: 2px solid black; 
+		height:90px;
+		margin:0px;
+	
+}
+
+
